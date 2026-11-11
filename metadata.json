@@ -1,0 +1,6 @@
+{
+  "name": "Savyant Systems - Sales Order & Inventory Management",
+  "description": "Production-grade Sales Order & Inventory Management system featuring multi-item order processing, concurrency-safe transactional stock management, role-based access control, CSV bulk import, SQL reporting, and complete technical assignment deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

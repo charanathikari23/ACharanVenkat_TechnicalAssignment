@@ -1,0 +1,6 @@
+product_code,product_name,category,price,stock_quantity,status
+PRD-101,Noise-Cancelling Headphones,Audio,2499.00,30,Active
+PRD-102,USB Condenser Microphone,Audio,1850.50,15,Active
+PRD-103,1080p Streaming Webcam,Peripherals,1200.00,45,Active
+PRD-104,Aluminum Laptop Stand,Ergonomics,650.00,60,Active
+PRD-105,Multi-Port USB-C Hub,Accessories,899.00,25,Active

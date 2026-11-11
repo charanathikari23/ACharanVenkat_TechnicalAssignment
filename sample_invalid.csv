@@ -1,0 +1,7 @@
+product_code,product_name,category,price,stock_quantity,status
+PRD-201,Valid Test Product 1,Electronics,1200.00,10,Active
+PRD-001,Duplicate Code Already in DB,Accessories,1500.00,20,Active
+PRD-203,Negative Price Item,Electronics,-450.00,15,Active
+PRD-204,Invalid Stock Quantity,Displays,9500.00,-5,Active
+PRD-205,Invalid Status Value,Hardware,320.00,40,Archived
+PRD-201,Duplicate Product Code Within File,Electronics,1100.00,25,Active
